@@ -8,3 +8,7 @@ The repository is intended to support ICARUS production activities. The aims of 
 - develop a wiki to keep and share our know-how, for exmaple:
   - defining a 	diagnostics procedure
   - common solutions to problems
+
+For newcomers, here we should list usefull materials:
+- A basic POMS [guide](https://github.com/SBNSoftware/icarus_production_guide)
+- A more complete bu SBND-focused [guide](https://docs.google.com/document/d/1faX8JG3wHwjWl69GtFvojW2zB_IJ3zL0p8DzpwG93bk/edit?tab=t.0#heading=h.8u5f5oi2k2ce)
