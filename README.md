@@ -45,5 +45,3 @@ This command will:
   - not belonging to the specified datasets (`Dataset.Tag`)
 - For the selected file get the metadata and pick-up `Dataset.Tag` field
 ```
-
-
