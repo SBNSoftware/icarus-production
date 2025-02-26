@@ -15,7 +15,7 @@ For newcomers, here we should list usefull materials:
 
 ## Frequently Asked Questions (FAQ)
 
-### How to delete datasets?
+## How to delete datasets?
 
 - **If the dataset is declared on samweb**, use the following command to retire the dataset:
   
@@ -31,7 +31,7 @@ For newcomers, here we should list usefull materials:
 
 - **If the dataset is not declared on samweb**, you can simply use the `rm` command to delete it.
 
-### How to get the samweb datasets residing in a filesystem path?
+## How to get the samweb datasets residing in a filesystem path?
 
 You can retrieve the datasets iteratively using the following command:
 
