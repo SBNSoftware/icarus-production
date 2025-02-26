@@ -44,4 +44,3 @@ This command will:
   - with a path compatible with the specified one
   - not belonging to the specified datasets (`Dataset.Tag`)
 - For the selected file get the metadata and pick-up `Dataset.Tag` field
-```
