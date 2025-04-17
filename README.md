@@ -11,6 +11,7 @@ The repository is intended to support ICARUS production activities. The aims of 
 
 For newcomers, here we should list usefull materials:
 - A basic POMS [guide](https://github.com/SBNSoftware/icarus_production_guide)
+- The POMS [wiki](https://github.com/fermitools/poms/wiki) in github repository
 - A more complete SBND-focused [guide](https://docs.google.com/document/d/1faX8JG3wHwjWl69GtFvojW2zB_IJ3zL0p8DzpwG93bk/edit?tab=t.0#heading=h.8u5f5oi2k2ce)
 
 ## Frequently Asked Questions (FAQ)
