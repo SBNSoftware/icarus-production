@@ -94,9 +94,7 @@ Link [here](https://pomsgpvm02.fnal.gov/poms/show_campaigns/icarus/production)
     * \[Matteo\] review of cfg file by Ivan					issue [\#90](https://github.com/SBNSoftware/icarus-production/issues/90)  
       Test campaign on going. See [here](https://pomsgpvm02.fnal.gov/poms/show_campaign_stages/icarus/production?campaign_name=2025A_ICARUS_NuMI_MC_FHC_mt_test&view_active=view_active&view_mine=2442&view_others=2442&view_production=view_production&update_view=update_view)  
     * \[Promita\] Compile a list of other potentially obsolete MC and data samples and email the collaboration for usage confirmation before any deletion  
-    * \[Fatima/Vito\] Investigate the failure of Request \#72 by checking logs and determining the root cause  
-    * \[Alessandro/Promita\] Recover failed jobs for campaigns \#97 and \#98  
-    * \[Antonio\] Status of Request \#101  
+    * \[Matteo\] Set-up of the transfers of Jamie Dyer to tape
   * Pending  
     *   
 * Link to [open issues](https://github.com/SBNSoftware/icarus-production/issues?q=is%3Aopen+is%3Aissue+-project%3Asbnsoftware%2F31+-project%3Asbnsoftware%2F32+)
