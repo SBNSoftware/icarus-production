@@ -9,6 +9,8 @@ The repository is intended to support ICARUS production activities. The aims of 
   - defining a 	diagnostics procedure
   - common solutions to problems
 
+Sample requests are submitted via [the production request form](https://docs.google.com/forms/d/e/1FAIpQLScqdJRTznIZHRXsRsVegg_DEsHiEmdIh_p1y7uZS76_f2y1qw/viewform), and open requests are listed in [this spreadsheet](https://docs.google.com/spreadsheets/d/17mFPGsP7gw4GRLSCwIL15QrtUnLVri_2k2Wjzhd6Ork).
+
 For newcomers, here we should list usefull materials:
 - A basic POMS [guide](https://github.com/SBNSoftware/icarus_production_guide)
 - The POMS [wiki](https://github.com/fermitools/poms/wiki) in github repository
