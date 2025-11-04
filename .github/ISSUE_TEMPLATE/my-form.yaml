@@ -76,8 +76,8 @@ body:
         - gen
         - g4
         - detsim
-        - reco1/Stage0
-        - reco2/Stage1
+        - stage0
+        - stage1
         - caf
         - scrub
     validations:
@@ -90,8 +90,8 @@ body:
         - gen
         - g4
         - detsim
-        - reco1/Stage0
-        - reco2/Stage1
+        - stage0
+        - stage1
         - calib ntuples
         - LArCV
         - caf
@@ -109,8 +109,8 @@ body:
       label: Has the workflow been tested?
       description: Production will not start unless this answer is 'Yes', please fill the following questions based on the test output (reach out if you need help w/ this step)
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: input
