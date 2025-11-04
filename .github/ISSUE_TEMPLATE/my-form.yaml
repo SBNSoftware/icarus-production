@@ -1,0 +1,173 @@
+name: ICARUS Production Sample Request
+description: ICARUS Production Sample Request Form
+title: "[Production Request]: "
+labels: ["data", "mc"]
+projects: ["SBNSoftware/icarus-production"]
+type: task
+body:
+  - type: input
+    id: email
+    attributes:
+      label: Email
+  - type: dropdown
+    id: type
+    attributes:
+      label: Data, MC or Other
+      options:
+        - MC
+        - Data
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: tag
+    attributes:
+      label: Name/tag of the request
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description of the sample request
+    validations:
+      required: true
+  - type: dropdown
+    id: detector
+    attributes:
+      label: This request involves which detector?
+      options:
+        - SBND
+        - ICARUS
+    validations:
+      required: true
+  - type: input
+    id: working-group
+    attributes:
+      label: To which working group this request refers to?
+  - type: input
+    id: contact-person
+    attributes:
+      label: Contact person Name/Email (in case of issues/questions during the production)
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Intended Deadline
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority (relative to requests submitted in parallel)
+      options:
+        - 1 - would be nice to have
+        - 2 - normal
+        - 3 - mandatory
+  - type: input
+    id: version
+    attributes:
+      label: Code release version
+    validations:
+      required: true
+  - type: dropdown
+    id: stages
+    attributes:
+      label: Stage(s) of processing chain to run (workflow) (mark all that apply.)
+      multiple: true
+      options:
+        - gen
+        - g4
+        - detsim
+        - reco1/Stage0
+        - reco2/Stage1
+        - caf
+        - scrub
+    validations:
+      required: true
+  - type: dropdown
+    id: files
+    attributes:
+      label: Stage files to be saved
+      multiple: true
+      options:
+        - gen
+        - g4
+        - detsim
+        - reco1/Stage0
+        - reco2/Stage1
+        - calib ntuples
+        - LArCV
+        - caf
+    validations:
+      required: true
+  - type: input
+    id: nevents
+    attributes:
+      label: Total number of events to produce
+    validations:
+      required: true
+  - type: dropdown
+    id: validated
+    attributes:
+      label: Has the workflow been tested?
+      description: Production will not start unless this answer is 'Yes', please fill the following questions based on the test output (reach out if you need help w/ this step)
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: input
+    id: size-per-event
+    attributes:
+      label: average file size per event
+  - type: input
+    id: time-per-event
+    attributes:
+      label: average running time per event
+  - type: input
+    id: mem-per-event
+    attributes:
+      label: average memory usage per event
+  - type: input
+    id: filter
+    attributes:
+      label: (if the workflow filters) expected filter efficiency (%)
+  - type: input
+    id: gen-fcl
+    attributes:
+      label: gen .fcl
+  - type: input
+    id: g4-fcl
+    attributes:
+      label: g4 .fcl
+  - type: input
+    id: detsim-fcl
+    attributes:
+      label: detsim .fcl
+  - type: input
+    id: stage0-fcl
+    attributes:
+      label: reco1/Stage0 .fcl
+  - type: input
+    id: stage1-fcl
+    attributes:
+      label: reco2/Stage1 .fcl
+  - type: input
+    id: caf-fcl
+    attributes:
+      label: caf .fcl
+  - type: input
+    id: other-fcl
+    attributes:
+      label: Other .fcl (please identify stage, several files can be added in this field if needed)
+  - type: input
+    id: location
+    attributes:
+      label: Location of any input files, if needed
+  - type: input
+    id: input
+    attributes:
+      label: Input dataset, if any
+  - type: textarea
+    id: comments
+    attributes:
+      label: Comments - please add any necessary information that was not covered in the other fields
