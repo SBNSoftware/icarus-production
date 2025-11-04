@@ -75,11 +75,6 @@ body:
       options:
         - gen
         - g4
-        - detsim
-        - stage0
-        - stage1
-        - caf
-        - scrub
     validations:
       required: true
   - type: checkboxes
