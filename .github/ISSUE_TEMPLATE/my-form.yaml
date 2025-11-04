@@ -87,14 +87,14 @@ body:
     attributes:
       label: Stage files to be saved
       options:
-        - gen
-        - g4
-        - detsim
-        - stage0
-        - stage1
-        - calib ntuples
-        - LArCV
-        - caf
+        - "gen"
+        - "g4"
+        - "detsim"
+        - "reco1/Stage0"
+        - "reco2/Stage1"
+        - "calib ntuples"
+        - "LArCV"
+        - "caf"
     validations:
       required: true
   - type: input
