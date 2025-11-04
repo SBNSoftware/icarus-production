@@ -161,9 +161,11 @@ body:
     id: location
     attributes:
       label: Location of any input files, if needed
+  - type: input
     id: input
     attributes:
       label: Input dataset, if any
-    id: textarea
+  - type: textarea
+    id: comments
     attributes:
       label: Comments - please add any necessary information that was not covered in the other fields
