@@ -73,8 +73,8 @@ body:
     attributes:
       label: Stage(s) of processing chain to run (workflow) (mark all that apply.)
       options:
-        - gen
-        - g4
+        - AAAA
+        - BBBB
     validations:
       required: true
   - type: checkboxes
@@ -82,14 +82,8 @@ body:
     attributes:
       label: Stage files to be saved
       options:
-        - "gen"
-        - "g4"
-        - "detsim"
-        - "reco1/Stage0"
-        - "reco2/Stage1"
-        - "calib ntuples"
-        - "LArCV"
-        - "caf"
+        - AAAA
+        - BBBB
     validations:
       required: true
   - type: input
