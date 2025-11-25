@@ -154,6 +154,10 @@ body:
   - type: input
     id: caf-fcl
     attributes:
+      label: LArCV .fcl
+  - type: input
+    id: larcv-fcl
+    attributes:
       label: caf .fcl
   - type: input
     id: other-fcl
