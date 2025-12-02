@@ -8,6 +8,16 @@ The repository is intended to support ICARUS production activities. The aims of 
 - develop a wiki to keep and share our know-how, for exmaple:
   - defining a 	diagnostics procedure
   - common solutions to problems
+- track meetings' notes:
+  - [20251125](<meeting-notes/20251125 - Icarus Production Meeting/20251125 - Icarus Production Meeting.md>)
+  - [20251104](<meeting-notes/20251104 - Icarus Production Meeting/20251104 - Icarus Production Meeting.md>)
+  - [20251028](<meeting-notes/20251028 - Icarus Production Meeting/20251028 - Icarus Production Meeting.md>)
+  - [20251007](<meeting-notes/20251007 - Icarus Production Meeting/20251007 - Icarus Production Meeting.md>)
+  - [20250930](<meeting-notes/20250930 - Icarus Production Meeting/20250930 - Icarus Production Meeting.md>)
+  - [20250923](<meeting-notes/20250923 - Icarus Production Meeting/20250923 - Icarus Production Meeting.md>)
+  - [20250916](<meeting-notes/20250916 - Icarus Production Meeting/20250916 - Icarus Production Meeting.md>)
+  - [20250909](<meeting-notes/20250909 - Icarus Production Meeting/20250909 - Icarus Production Meeting.md>)
+
 
 Sample requests are submitted via [the production request form](https://docs.google.com/forms/d/e/1FAIpQLScqdJRTznIZHRXsRsVegg_DEsHiEmdIh_p1y7uZS76_f2y1qw/viewform), and open requests are listed in [this spreadsheet](https://docs.google.com/spreadsheets/d/17mFPGsP7gw4GRLSCwIL15QrtUnLVri_2k2Wjzhd6Ork).
 
