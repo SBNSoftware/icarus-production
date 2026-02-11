@@ -18,7 +18,6 @@ The repository is intended to support ICARUS production activities. The aims of 
   - [20250923](<meeting-notes/20250923 - Icarus Production Meeting/20250923 - Icarus Production Meeting.md>)
   - [20250916](<meeting-notes/20250916 - Icarus Production Meeting/20250916 - Icarus Production Meeting.md>)
   - [20250909](<meeting-notes/20250909 - Icarus Production Meeting/20250909 - Icarus Production Meeting.md>)
-  - [20260210](<meeting-notes/20260210 - Icarus Production Meeting/20260210 - Icarus Production Meeting.md>)
 
 
 Sample requests are submitted via [the production request form](https://docs.google.com/forms/d/e/1FAIpQLScqdJRTznIZHRXsRsVegg_DEsHiEmdIh_p1y7uZS76_f2y1qw/viewform), and open requests are listed in [this spreadsheet](https://docs.google.com/spreadsheets/d/17mFPGsP7gw4GRLSCwIL15QrtUnLVri_2k2Wjzhd6Ork).
