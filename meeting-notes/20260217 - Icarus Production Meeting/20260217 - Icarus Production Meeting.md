@@ -45,8 +45,7 @@ POMS active campaigns [here](https://pomsgpvm02.fnal.gov/poms/show_campaigns/ica
     
 
   * Request \#112 \[Promita\]:  
-    1. Almost Done  
-    2. She is also managing a new small test campaign not present in the requests (not request 112).  
+    1. Almost Done 
          
   * Request \#114 \[Ivan\]: Done  
     1. Needs confirmation from Gray for further processing  
