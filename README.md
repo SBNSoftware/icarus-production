@@ -1,14 +1,15 @@
 # icarus-production
-The repository is intended to support ICARUS production activities. The aims of repository are is to be a reference for the ICARUS production team.
-- Usefull scripts must be store [here](https://github.com/SBNSoftware/sbnutil),
+The repository is intended to support ICARUS production activities. The repository aims to be a reference for the ICARUS production team.
+- Usefull scripts must be stored [here](https://github.com/SBNSoftware/sbnutil),
 - [track issues](https://github.com/SBNSoftware/icarus-production/issues)
 - manage
   - [action items](https://github.com/orgs/SBNSoftware/projects/32)
   - [production requests](https://github.com/orgs/SBNSoftware/projects/49)
-- develop a wiki to keep and share our know-how, for exmaple:
-  - defining a 	diagnostics procedure
+- develop a wiki to keep and share our know-how, for example:
+  - defining a 	diagnostic procedure
   - common solutions to problems
 - track meetings' notes:
+  - [20260317](<meeting-notes/20260317 - Icarus Production Meeting/20260317 - Icarus Production Meeting.md>)
   - [20260310](<meeting-notes/20260310 - Icarus Production Meeting/20260310 - Icarus Production Meeting.md>)
   - [20260302](<meeting-notes/20260302 - Icarus Production Meeting/20260302 - Icarus Production Meeting.md>)
   - [20260224](<meeting-notes/20260224 - Icarus Production Meeting/20260224 - Icarus Production Meeting.md>)
@@ -27,7 +28,7 @@ The repository is intended to support ICARUS production activities. The aims of 
 
 Sample requests are submitted via [the production request form](https://docs.google.com/forms/d/e/1FAIpQLScqdJRTznIZHRXsRsVegg_DEsHiEmdIh_p1y7uZS76_f2y1qw/viewform), and open requests are listed in [this spreadsheet](https://docs.google.com/spreadsheets/d/17mFPGsP7gw4GRLSCwIL15QrtUnLVri_2k2Wjzhd6Ork).
 
-For newcomers, here we should list usefull materials:
+For newcomers, here we should list useful materials:
 - A basic POMS [guide](https://github.com/SBNSoftware/icarus_production_guide)
 - The POMS [wiki](https://github.com/fermitools/poms/wiki) in github repository
 - A more complete SBND-focused [guide](https://docs.google.com/document/d/1faX8JG3wHwjWl69GtFvojW2zB_IJ3zL0p8DzpwG93bk/edit?tab=t.0#heading=h.8u5f5oi2k2ce)
