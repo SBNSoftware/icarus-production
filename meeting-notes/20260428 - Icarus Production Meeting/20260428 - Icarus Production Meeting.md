@@ -30,7 +30,7 @@ POMS active campaigns [here](https://pomsgpvm02.fnal.gov/poms/show_campaigns/ica
 
 ### Notes
 
-* 
+* A power outage due to the partial collapse of a high-voltage tower near the Batavia Road is impacting FermiGrid, SAM nodes and monitoring resources. FermiGrid is down, SBN SAM node is down.
 
 ### Requests
 
