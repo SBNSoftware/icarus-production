@@ -54,7 +54,7 @@ POMS active campaigns [here](https://pomsgpvm02.fnal.gov/poms/show_campaigns/ica
     
 
   * Request \#8 \[Alessandro\]: Perlmutter and FermiGrid  
-    1. Stage0: 74% complete  
+    1. Stage0: 100% complete  
     2. Larcv: 56% complete  
     3. TRANSFERRING in S3DF
 
