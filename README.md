@@ -9,6 +9,7 @@ The repository is intended to support ICARUS production activities. The reposito
   - defining a 	diagnostic procedure
   - common solutions to problems
 - track meetings' notes:
+  - [20260624](<meeting-notes/20260624 - Icarus Production Meeting/20260624 - Icarus Production Meeting.md>)
   - [20260615](<meeting-notes/20260615 - Icarus Production Meeting/20260615 - Icarus Production Meeting.md>)
   - [20260608](<meeting-notes/20260608 - Icarus Production Meeting/20260608 - Icarus Production Meeting.md>)
   - [20260601](<meeting-notes/20260601 - Icarus Production Meeting/20260601 - Icarus Production Meeting.md>)
