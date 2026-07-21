@@ -125,6 +125,12 @@ Link to [action items](https://github.com/orgs/SBNSoftware/projects/32)
   * Token in FTS tested but not used in production for the moment.  
   * Files must be transferred manually to NERSC. Rucio is setting up to transfer files with NERSC. Rucio also uses a proxy, need to use tokens.  
   * SDumont in Brazil (LNCC): setup ongoing, available from July (estimate).  
-  * There is a long maintenance at NERSC on July 30th  
-  * Submission in icarusgpvm06 is broken for SL7  
+  * There is a long maintenance at NERSC on July 30th   
   * Kibana retired
+  * ysadmins are migrating GPVMs from OSG23 to OSG25, for now this has been done on **icarusgpvm06**, consider to use/test this node for ICARUS production activities to make sure this is not affecting production activities:  
+  * Transition plan  
+  * • Testing period: Tuesday, July 21-Monday, August 3  
+  * • Upgrade to OSG 25 on test interactive nodes (the ones that get jobsub\_lite release candidates)  
+  *       • ICARUS test node is icarusgpvm06  
+  * • Make sure nothing unexpected goes wrong  
+  * • If all goes well, upgrade all interactive nodes to OSG 25 on Tuesday, August 4
