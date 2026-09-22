@@ -1,6 +1,6 @@
 # ICARUS Data Production and Management
 The repository is intended to support ICARUS Data Production and Management activities. The repository aims to be a reference for the ICARUS Data Production and Management team.
-- Usefull scripts must be stored [here](https://github.com/SBNSoftware/sbnutil),
+- Usefull scripts must be stored [here](https://github.com/SBNSoftware/sbnutil)
 - [track issues](https://github.com/SBNSoftware/icarus-production/issues)
 - manage
   - [action items](https://github.com/orgs/SBNSoftware/projects/32)
@@ -9,6 +9,7 @@ The repository is intended to support ICARUS Data Production and Management acti
   - defining a 	diagnostic procedure
   - common solutions to problems
 - track meetings' notes:
+  - [20260921](<meeting-notes/20260921 - ICARUS DPM Meeting/20260921 - ICARUS DPM Meeting.md>)
   - [20260914](<meeting-notes/20260914 - ICARUS DPM Meeting/20260914 - ICARUS DPM Meeting.md>)
   - [20260831](<meeting-notes/20260831 - ICARUS DPM Meeting/20260831 - ICARUS DPM Meeting.md>)
   - [20260824](<meeting-notes/20260824 - ICARUS DPM Meeting/20260824 - ICARUS DPM Meeting.md>)
