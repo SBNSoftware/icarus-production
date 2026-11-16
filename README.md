@@ -1,6 +1,6 @@
 # ICARUS Data Production and Management
 The repository is intended to support ICARUS Data Production and Management activities. The repository aims to be a reference for the ICARUS Data Production and Management team.
-- Usefull scripts must be stored [here](https://github.com/SBNSoftware/sbnutil)
+- Useful scripts must be stored [here](https://github.com/SBNSoftware/sbnutil)
 - [track issues](https://github.com/SBNSoftware/icarus-production/issues)
 - manage
   - [action items](https://github.com/orgs/SBNSoftware/projects/32)
