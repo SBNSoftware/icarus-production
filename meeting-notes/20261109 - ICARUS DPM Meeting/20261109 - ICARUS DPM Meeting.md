@@ -1,6 +1,6 @@
 # ICARUS Data Production and Management Meeting
 
-## ott 26, 2026 09:00 GMT-5
+## nov 09, 2026 09:00 GMT-5
 
 ## Attendees
 
