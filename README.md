@@ -9,6 +9,7 @@ The repository is intended to support ICARUS Data Production and Management acti
   - defining a 	diagnostic procedure
   - common solutions to problems
 - track meetings' notes:
+  - [20261123](<meeting-notes/20261123 - ICARUS DPM Meeting/20261123 - ICARUS DPM Meeting.md>)
   - [20261116](<meeting-notes/20261116 - ICARUS DPM Meeting/20261116 - ICARUS DPM Meeting.md>)
   - [20261109](<meeting-notes/20261109 - ICARUS DPM Meeting/20261109 - ICARUS DPM Meeting.md>)
   - [20261019](<meeting-notes/20261019 - ICARUS DPM Meeting/20261019 - ICARUS DPM Meeting.md>)
